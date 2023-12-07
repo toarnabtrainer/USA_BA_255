@@ -3,6 +3,11 @@
 **Software Engineering E-book download link:**<br>
 https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
 
+**Tutorials on Project Management:**<br>
+* https://www.guru99.com/initiation-phase-project-management-life-cycle.html
+* https://www.knowledgehut.com/tutorials/project-management
+* https://www.projectengineer.net/tutorials/project-management/
+
 **MS-Project Trial Version Download:**<br>
 https://www.microsoft.com/en-in/microsoft-365/project/compare-microsoft-project-management-software?tab=1&ef_id=_k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&OCID=AIDcmmapr1szny_SEM__k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB
 
